@@ -2,9 +2,9 @@
 
 **_`Software Developer`_**
 
-I am a 15-year-old self-taught software developer specilaizing in web-developement trying to learn C and start writing his own blog/newsletter. I have learnt and slightly mastered JavaSript and the MERN stack. Currently I am learning AWS to complete the set. Most of the projects are examples, starter code or just sandboxes. After I learn C (hopefully), I'll populate this with many different projects.
+I am a 15-year-old self-taught software developer specialising in web-development trying to learn C and start writing his blog/newsletter. I have learnt and slightly mastered JavaSript and the MERN stack. Currently, I am learning AWS to complete the set. Most of the projects are examples, starter code or just sandboxes. After I learn C (hopefully), I'll populate this with many different projects.
 
-Also I use vim btw.
+Also, I use vim btw.
 
 ---
 
@@ -39,14 +39,3 @@ Also I use vim btw.
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" style="width:50px;padding:5px;" />
 </div>
 
-<div style="text-align:center">
-
-[![Zohaib's GitHub stats](https://github-readme-stats.vercel.app/api?username=zohaibarsalan&show_icons=true&theme=dracula&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-
-<div style="text-align:center">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>

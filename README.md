@@ -41,7 +41,7 @@ Also I use vim btw.
 
 <div style="text-align:center">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zohaibarsalan&show_icons=true&theme=dracula&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Zohaib's GitHub stats](https://github-readme-stats.vercel.app/api?username=zohaibarsalan&show_icons=true&theme=dracula&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 

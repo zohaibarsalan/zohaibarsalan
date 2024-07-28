@@ -2,7 +2,7 @@
 
 **_`Software Developer`_**
 
-I am a 15-year-old self-taught software developer specialising in web-development trying to learn C and start writing his blog/newsletter. I have learnt and slightly mastered JavaSript and the MERN stack. Currently, I am learning AWS to complete the set. Most of the projects are examples, starter code or just sandboxes. After I learn C (hopefully), I'll populate this with many different projects.
+I am a 16-year-old self-taught software developer specializing in web development trying to learn C and start writing his blog/newsletter. I have learned and slightly mastered JavaSript and the MERN stack. Currently, I am learning AWS to complete the set. Most of the projects are examples, starter code, or just sandboxes. After I learn C (hopefully), I'll populate this with many different projects.
 
 Also, I use vim btw.
 

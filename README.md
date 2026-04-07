@@ -6,16 +6,15 @@ Focused on full-stack development, automation, and production-ready tools.
 
 ## Projects
 
-- **lock**: Native macOS menu bar app that protects selected apps with a custom password. *(beta)*
-- **colorizer**: Local-first Chrome extension for colorizing black-and-white manga/manhwa pages while reading in the browser. *(beta)*
-- **screenshotter**: Playwright-based dashboard screenshot automation with light/dark modes and element capture. *(experimental --- needs work)*
+- **[lock](https://github.com/zohaibarsalan/lock)**: Native macOS menu bar app that protects selected apps with a custom password. *(beta)*
+- **[colorizer](https://github.com/zohaibarsalan/colorizer)**: Local-first Chrome extension for colorizing black-and-white manga/manhwa pages while reading in the browser. *(beta)*
+- **[screenshotter](https://github.com/zohaibarsalan/screenshotter)**: Playwright-based dashboard screenshot automation with light/dark modes and element capture. *(experimental — needs work)*
 - **engineering-notes**: Notes and experiments on building reliable software. *(in progress)*
 - **website**: Personal site. *(in progress)*
 
 ## Private Projects
 
-- **dashboardWISE**: Law firm analytics platform turning operational data into actionable financial insight.  
-  https://dashboardwise.com  
+- **[dashboardWISE](https://dashboardwise.com)**: Law firm analytics platform turning operational data into actionable financial insight.
 - **debt recovery system**: Internal tool for tracking and managing recovery workflows.
 - **estate planning tool**: Tooling for structuring and managing estate-related data and processes.
 

@@ -6,9 +6,9 @@ Focused on full-stack development, automation, and production-ready tools.
 
 ## Projects
 
-- **[lock](https://github.com/zohaibarsalan/lock)**: Native macOS menu bar app that protects selected apps with a custom password. *(beta)*
-- **[colorizer](https://github.com/zohaibarsalan/colorizer)**: Local-first Chrome extension for colorizing black-and-white manga/manhwa pages while reading in the browser. *(beta)*
-- **[screenshotter](https://github.com/zohaibarsalan/screenshotter)**: Playwright-based dashboard screenshot automation with light/dark modes and element capture. *(experimental — needs work)*
+- **[screenshotter](https://github.com/zohaibarsalan/screenshotter)**: Playwright-based dashboard screenshot automation with light/dark modes and element capture. *(alpha)*
+- **[lock](https://github.com/zohaibarsalan/lock)**: Native macOS menu bar app that protects selected apps with a custom password. *(alpha)*
+- **[colorizer](https://github.com/zohaibarsalan/colorizer)**: Local-first Chrome extension for colorizing black-and-white manga/manhwa pages while reading in the browser. *(alpha)*
 - **engineering-notes**: Notes and experiments on building reliable software. *(in progress)*
 - **website**: Personal site. *(in progress)*
 

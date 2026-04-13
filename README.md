@@ -7,6 +7,7 @@ Focused on full-stack development, automation, and production-ready tools.
 ## Projects
 
 - **[screenshotter](https://github.com/zohaibarsalan/screenshotter)**: Playwright-based dashboard screenshot automation with light/dark modes and element capture. *(alpha)*
+- **[Tab Fix](https://github.com/zohaibarsalan/tab-fix)**: macOS writing assistant that lets you press Tab to instantly fix grammar, spelling, and sentence issues in any text field. *(alpha)*
 - **[lock](https://github.com/zohaibarsalan/lock)**: Native macOS menu bar app that protects selected apps with a custom password. *(alpha)*
 - **[colorizer](https://github.com/zohaibarsalan/colorizer)**: Local-first Chrome extension for colorizing black-and-white manga/manhwa pages while reading in the browser. *(alpha)*
 - **engineering-notes**: Notes and experiments on building reliable software. *(in progress)*

@@ -13,7 +13,7 @@ Focused on full-stack development, automation, and production-ready tools.
 - **engineering-notes**: Notes and experiments on building reliable software. *(in progress)*
 - **website**: Personal site. *(in progress)*
 
-## Private Projects
+## Products 
 
 - **[dashboardWISE](https://dashboardwise.com)**: Law firm analytics platform turning operational data into actionable financial insight.
 - **debt recovery system**: Internal tool for tracking and managing recovery workflows.

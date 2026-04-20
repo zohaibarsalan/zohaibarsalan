@@ -11,7 +11,7 @@ Focused on full-stack development, automation, and production-ready tools.
 - **[lock](https://github.com/zohaibarsalan/lock)**: Native macOS menu bar app that protects selected apps with a custom password. *(alpha)*
 - **[colorizer](https://github.com/zohaibarsalan/colorizer)**: Local-first Chrome extension for colorizing black-and-white manga/manhwa pages while reading in the browser. *(alpha)*
 - **engineering-notes**: Notes and experiments on building reliable software. *(in progress)*
-- **website**: Personal site. *(in progress)*
+- **[website](https://github.com/zohaibarsalan/website)**: Personal site.
 
 ## Products 
 

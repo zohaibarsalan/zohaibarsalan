@@ -1,32 +1,32 @@
 # Zohaib Arsalan
 Software Developer
 
-I’m a 17-year-old self-taught developer building projects and learning by shipping real systems.  
+I’m a self-taught developer building projects and learning by shipping real systems.
 Focused on full-stack development, automation, and production-ready tools.
 
 ## Projects
 
-- **[screenshotter](https://github.com/zohaibarsalan/screenshotter)**: Playwright-based dashboard screenshot automation with light/dark modes and element capture. *(beta)*
-- **[Tab Fix](https://github.com/zohaibarsalan/tab-fix)**: macOS writing assistant that lets you press Tab to instantly fix grammar, spelling, and sentence issues in any text field. *(alpha)*
-- **[lock](https://github.com/zohaibarsalan/lock)**: Native macOS menu bar app that protects selected apps with a custom password. *(alpha)*
-- **[colorizer](https://github.com/zohaibarsalan/colorizer)**: Local-first Chrome extension for colorizing black-and-white manga/manhwa pages while reading in the browser. *(alpha)*
-- **engineering-notes**: Notes and experiments on building reliable software. *(in progress)*
+- **[Screenshotter](https://github.com/zohaibarsalan/screenshotter)**: In-app screenshot capture for React apps, with element, viewport, full-page, and dual-theme capture. Published as an npm package.
+- **[Glassleaf](https://github.com/zohaibarsalan/glassleaf)**: Fast, local-first EPUB reading and library app for iPhone, iPad, and Mac. *(alpha)*
+- **[Pulseboard](https://github.com/zohaibarsalan/pulseboard)**: Local-first webhook debugger for capturing, inspecting, replaying, comparing, and forwarding webhooks. *(v0.1)*
+- **[Leasefold](https://github.com/zohaibarsalan/leasefold)**: Lease-accounting subledger for IFRS 16 and ASC 842. *(planning)*
+- **[Tab Fix](https://github.com/zohaibarsalan/tab-fix)**: macOS writing assistant that lets you press Tab to fix grammar, spelling, and sentence issues in the active text field. *(v0.1 alpha)*
+- **[Lock](https://github.com/zohaibarsalan/lock)**: Native macOS menu bar app that password-protects selected apps. *(v0.1)*
+- **[Colorizer](https://github.com/zohaibarsalan/colorizer)**: Local-first Chrome extension for colorizing black-and-white manga/manhwa pages while reading in the browser. *(prototype)*
 - **[website](https://zohaibarsalan.me)**: Personal site.
 
-## Products 
+## Work
 
 - **[dashboardWISE](https://dashboardwise.com)**: Law firm analytics platform turning operational data into actionable financial insight.
-- **debt recovery system**: Internal tool for tracking and managing recovery workflows.
-- **estate planning tool**: Tooling for structuring and managing estate-related data and processes.
-
+- **[Bannerito](https://bannerito.com)**: Embedded Shopify app for creating, scheduling, and delivering announcement, countdown, and free-shipping banners. [Source](https://github.com/zohaibarsalan/bannerito).
 
 ## Languages & Tools
 
-- **Languages**: TypeScript, JavaScript, Python, Swift (learning)
-- **Frameworks & Backend**: Next.js, React, Node.js, Express, tRPC, Zod
-- **Data & Queues**: PostgreSQL, Drizzle ORM, Redis, BullMQ
+- **Languages**: TypeScript, JavaScript, Python, Swift
+- **Frameworks & Backend**: Next.js, React, SwiftUI, Node.js, Fastify, tRPC, Zod
+- **Data & Queues**: PostgreSQL, SQLite, Drizzle ORM, Redis, BullMQ
 - **Infra & DevOps**: AWS (Lambda, EC2, S3, CloudFront), Docker, Nginx
-- **Other**: Playwright, Git, Neovim
+- **Other**: Playwright, WebKit, Git, Neovim
 
 ## Get in touch
 

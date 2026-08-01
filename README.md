@@ -18,7 +18,7 @@ Focused on full-stack development, automation, and production-ready tools.
 ## Work
 
 - **[dashboardWISE](https://dashboardwise.com)**: Law firm analytics platform turning operational data into actionable financial insight.
-- **[Bannerito](https://bannerito.com)**: Embedded Shopify app for creating, scheduling, and delivering announcement, countdown, and free-shipping banners. [Source](https://github.com/zohaibarsalan/bannerito).
+- **[Bannerito](https://bannerito.com)**: Embedded Shopify app for creating, scheduling, and delivering announcement, countdown, and free-shipping banners.
 
 ## Languages & Tools
 
